@@ -9,7 +9,7 @@
     }
   },
   "dependencies": {
-    "buffer": "^5.0.0"
+    "buffer": "^4.0.0"
   },
   "jspmNodeConversion": false
 }
